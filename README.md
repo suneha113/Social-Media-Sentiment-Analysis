@@ -8,8 +8,8 @@ Data Processing:
 
 2. Word stemming and lemmatization to normalize words to their base forms.
 
-Feature Extraction: Uses TF-IDF vectorization to convert text into meaningful numerical features suitable for machine learning.
+**Feature Extraction:** Uses TF-IDF vectorization to convert text into meaningful numerical features suitable for machine learning.
 
-Modeling: Implements and compares classifiers such as Logistic Regression and Support Vector Machines (SVM) for sentiment prediction.
+**Modeling:** Implements and compares classifiers such as Naive Bayes, Logistic Regression and Support Vector Machines (SVM) for sentiment prediction.
 
-Evaluation: Provides detailed classification reports and confusion matrices to assess the performance of each model.
+**Evaluation:** Provides detailed classification reports and confusion matrices to assess the performance of each model.
